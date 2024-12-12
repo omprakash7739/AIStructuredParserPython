@@ -1,0 +1,14 @@
+{
+    "source": "Chocobar restaurant",
+    "items": [
+        {
+            "name": "milk shake",
+            "nutrition": {
+                "calories": 200.10,
+                "protein_g": 10.45,
+                "fat_g": 10.0,
+                "carbs_g": 200.234
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "source": "name of the restaurant for which menu items has been provided",
+    "items": [
+        {
+            "name": "name of the menu item",
+            "nutrition": {
+                "calories": "value of calories content in this particular menu item. this field will always content numeric value. if no data is available then use N/A as value",
+                "protein_g": "value of protein content in this particular menu item. this field will always content numeric value. if no data is available then use N/A as value",
+                "fat_g": "value of fat content in this particular menu item. this field will always content numeric value. if no data is available then use N/A as value",
+                "carbs_g": "value of carbohydrate content in this particular menu item. this field will always content numeric value. if no data is available then use N/A as value"
+            }
+        }
+    ]
+}

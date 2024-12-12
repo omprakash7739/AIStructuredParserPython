@@ -1,0 +1,11 @@
+bs4
+python-dotenv~=0.20.0
+pydentic
+regex
+firecrawl-py
+llama-index==0.10.17
+llama-index-program-openai
+llama-index-llms-openai
+llama-index-program-openai
+llama-index-readers-web
+llama-index-readers-remote
